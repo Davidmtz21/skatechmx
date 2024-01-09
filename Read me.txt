@@ -1,0 +1,8 @@
+Datos de acceso para el usuario :
+
+Nombre de usuario : anuj.lpu1@gmail.com
+Contraseña : Test@123
+
+Para Admin :
+Nombre de usuario : admin
+Contraseña : Prueba@123
